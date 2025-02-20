@@ -1,2 +1,2 @@
 # html-tutoring
-Tutoring session repository for Web development students
+## Complete the HTML code pert the instructions in the code files and match the goal PDFs styles.
